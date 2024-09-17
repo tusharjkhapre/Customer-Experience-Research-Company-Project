@@ -54,7 +54,7 @@ The data was pre-processed and cleaned to ensure accuracy and reliability before
 Here are some screenshots of the Power BI dashboard:
 
 ### Dashboard Overview
-![Dashboard Overview](./images/Summery.png)
+![Dashboard Overview](./images/Summery.jpg)
 
 ### Data Visualizations
 ![Data Visualizations](./images/data-visualization.png)
