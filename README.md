@@ -1,4 +1,4 @@
-# BARE International: Customer Experience Dashboard
+# Customer Experience Dashboard
 
 This repository contains a Power BI dashboard created for **BARE International**, a leading customer experience research company. The dashboard analyzes customer behavior data collected by BARE International and provides insights to help the company enhance their customer experience strategies.
 
