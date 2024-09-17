@@ -65,4 +65,4 @@ To view and interact with the Power BI dashboard, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/bare-international-dashboard.git
+   git clone https://github.com/tusharjkhapre/Customer-Experience-Research-Company-Project.git
