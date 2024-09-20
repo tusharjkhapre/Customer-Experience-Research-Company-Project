@@ -1,4 +1,6 @@
-# Customer Experience Dashboard
+![Dashboard Overview](https://github.com/tusharjkhapre/Customer-Experience-Research-Company-Project/blob/main/bare-international-dashboard/images/Summery.jpg)
+
+# Customer Experience Analysis Dashboard
 
 This repository contains a Power BI dashboard created for **BARE International**, a leading customer experience research company. The dashboard analyzes customer behavior data collected by BARE International and provides insights to help the company enhance their customer experience strategies.
 
@@ -54,10 +56,10 @@ The data was pre-processed and cleaned to ensure accuracy and reliability before
 Here are some screenshots of the Power BI dashboard:
 
 ### Dashboard Overview
-![Dashboard Overview](./images/Summery.jpg)
+![Dashboard Overview](https://github.com/tusharjkhapre/Customer-Experience-Research-Company-Project/blob/main/bare-international-dashboard/images/Summery.jpg)
 
 ### Data Visualizations
-![Data Visualizations](./images/data-visualization.png)
+![Data Visualizations](https://github.com/tusharjkhapre/Customer-Experience-Research-Company-Project/blob/main/bare-international-dashboard/images/Center%20insights.jpg)
 
 ## Installation
 
